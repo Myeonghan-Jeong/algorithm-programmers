@@ -1,8 +1,8 @@
-# Programmers
+# README
 
 ```python
 def main():
-    print('Hello, Programmers!')
+    print('Hello, programmers!')
 
 
 if __name__ == '__main__':
